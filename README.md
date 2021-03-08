@@ -29,8 +29,11 @@ There are many options we could consider when replacing a missing value, for exa
 
 
 1.A constant value that has meaning within the domain, such as 0, distinct from all other values.
+
 2.A value from another randomly selected record.
+
 3.A mean, median or mode value for the column.
+
 4.A value estimated by another predictive model.
 
 
